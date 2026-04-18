@@ -13,8 +13,6 @@
 - 💻 Interested in Full Stack Development
 
 ---
-
----
 ### 🎓 Education
 - 🏫 B.Tech (CSBS) – Panimalar Engineering College  
   📊 CGPA: 8.9
