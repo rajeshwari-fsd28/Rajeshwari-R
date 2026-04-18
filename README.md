@@ -18,7 +18,7 @@
   📊 CGPA: 8.9
 
 - 🏫 Higher Secondary (12th) – [Government higher seconday school,thovalai]  
-  📈 Percentage(till 3rd sem): 86%
+  📈 Percentage: 86%
 ---
 
 ### 🚀 Tech Stack
