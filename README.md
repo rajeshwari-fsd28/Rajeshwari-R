@@ -11,8 +11,16 @@
 - 🎓 Student at Panimalar Engineering College
 - 🌱 Currently learning Frontend technologies
 - 💻 Interested in Full Stack Development
-- 📍 From Tamil Nadu, India
 
+---
+
+---
+### 🎓 Education
+- 🏫 B.Tech (CSBS) – Panimalar Engineering College  
+  📊 CGPA: 8.9
+
+- 🏫 Higher Secondary (12th) – [Government higher seconday school,thovalai]  
+  📈 Percentage(till 3rd sem): 86%
 ---
 
 ### 🚀 Tech Stack
@@ -22,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 ![Stats](https://github-readme-stats.vercel.app/api?username=rajeshwari-fsd28&show_icons=true)
 
 ---
