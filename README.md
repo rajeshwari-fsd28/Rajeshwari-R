@@ -30,12 +30,11 @@
 ### 🚀 Projects
 
 #### 🔹 Consistency Tracker
-A web app to track daily activities and maintain streaks.
+- 📌 Tracks daily activities and streaks  
+- 🛠 Built with React, JavaScript, Bootstrap  
 
-🔗 Live Demo:https://consistency-tracker-new.netlify.app/
-💻 Source Code: https://github.com/rajeshwari-fsd28/consistency-tracker
----
-
+🔗 [Live Demo](https://your-live-link.com)  
+💻 [Source Code](https://github.com/rajeshwari-fsd28/consistency-tracker)
 ### 📊 GitHub Status
 ![Stats](https://github-readme-stats.vercel.app/api?username=rajeshwari-fsd28&show_icons=true)
 
