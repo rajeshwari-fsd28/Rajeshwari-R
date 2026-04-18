@@ -23,9 +23,17 @@
 
 ### 🚀 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python" />
 </p>
 
+---
+### 🚀 Projects
+
+#### 🔹 Consistency Tracker
+A web app to track daily activities and maintain streaks.
+
+🔗 Live Demo:https://consistency-tracker-new.netlify.app/
+💻 Source Code: https://github.com/rajeshwari-fsd28/consistency-tracker
 ---
 
 ### 📊 GitHub Status
