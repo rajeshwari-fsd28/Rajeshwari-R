@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeshwari</h1>
-<h3 align="center">Full Stack Developer 🚀</h3>
+<h3 align="center">Aspiring Full Stack Developer 🚀</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Full+Stack+Developer;React+Learner;Tech+Enthusiast" />
@@ -36,5 +36,5 @@
 
 
 ### 🌐 Connect with me
-- 💼 LinkedIn:[Rajeshwari](https://www.linkedin.com/in/rajeshwari-fsd28/)
+- 💼 LinkedIn:https://www.linkedin.com/in/rajeshwari-fsd28/
 - 📧 Email:rajeshwari.itbizpro.28@gmail.com
