@@ -34,8 +34,8 @@ A web app to track daily activities and maintain streaks.
 
 - 🛠 Tech: HTML, CSS, JavaScript, React, Bootstrap  
 
-🔗 [Live Demo](https://consistency-tracker-new.netlify.app/)  
-💻 [Source Code](https://github.com/rajeshwari-fsd28/consistency-tracker)
+🔗 Live Demo:https://consistency-tracker-new.netlify.app/
+💻 Source Code:https://github.com/rajeshwari-fsd28/consistency-tracker
 ---
 
 
